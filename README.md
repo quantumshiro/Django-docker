@@ -1,2 +1,1 @@
-# django-docker
 # Django-docker
